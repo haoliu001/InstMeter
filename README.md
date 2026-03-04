@@ -5,7 +5,7 @@ This repository contains the code for the paper:
 **InstMeter: An Instruction-Level Method to Predict Energy and Latency of DL Model Inference on MCUs**
 
 > ⚠️ **Code Update Notice**  
-> The authors are currently busy working on another paper. The code in this repository will be updated in approximately **one week**.  
+> The code in this repository will be updated in approximately **two months**.  
 > Thank you for your patience!
 
 ---
@@ -37,7 +37,7 @@ If you find this repository useful, please consider citing the paper:
 ```bibtex
 @article{instmeter,
   title={InstMeter: An Instruction-Level Method to Predict Energy and Latency of DL Model Inference on MCUs},
-  author={},
-  journal={},
-  year={},
+  author={Hao Liu, Qing Wang and Marco Zuniga},
+  booktitle = {Proceedings of the 31st Annual International Conference on Mobile Computing and Networking},
+  year={2026},
 }
